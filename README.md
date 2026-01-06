@@ -1,2 +1,2 @@
-# OpenProjects
-My Public Projects
+# PublicProjects
+Some of my public projects.
